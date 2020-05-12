@@ -2,5 +2,6 @@
     <p>React Native Radio Streaming</p>
 </h1>
 
-<div style="width:100px;height:100px">
-<img src="demonstrationApp.gif"></div>
+<h1 align="center">
+    <img src="demonstrationApp.gif">
+</h1>
