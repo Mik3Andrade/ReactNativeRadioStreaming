@@ -1,2 +1,7 @@
-# ReactNativeRadioStreaming
- This is an app that runs a radio web player in real time that searches for the name of the song and the artist, integrated with react navigation
+<h1 align="center">
+    <p>React Native Radio Streaming</p>
+</h1>
+
+<h1>
+    <img src="demonstrationApp.gif">
+</h1>
