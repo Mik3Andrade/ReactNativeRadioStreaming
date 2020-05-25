@@ -19,6 +19,6 @@ Features
 </h5>
 
 <h1 align="center">
-    <img src="demonstrationApp.gif" width="180">
-    <img src="demonstrationApp.gif" width="180">
+    <img src="demonstrationApp.gif" width="180" >
+    <img src="demonstrationApp.gif" width="180" style="margin-left:30px">
 </h1>
