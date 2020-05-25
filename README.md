@@ -4,7 +4,8 @@
 
 <h4>
 This project was made based on these repositories:
-<br>
+<br></br>
+
 android: <a href="https://www.w3schools.com">react-native-kit/react-native-track-player</a> <br>
 ios: <a href="https://github.com/tlenclos/react-native-audio-streaming">react-native-audio-streaming</a>
 
