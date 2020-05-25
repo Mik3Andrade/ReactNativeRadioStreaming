@@ -20,14 +20,12 @@ Features
 
 <h1 align="center">
     <img src="demonstrationApp.gif" width="180" marginLeft="20px">
-    <img src="demonstrationApp.gif" width="180">
+   
 </h1>
 
 <h1>
 Instalation App
 </h1>
-
-<a style="background-color:#d44">aaaaaa</a>
 
 <h4>
 1- $ git clone https://github.com/Mik3Andrade/ReactNativeRadioStreaming.git
