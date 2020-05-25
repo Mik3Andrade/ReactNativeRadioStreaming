@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-<h1 style="width:100px;height:30px;" >
-    <img src="demonstrationApp.gif">
+<h1" >
+    <img src="demonstrationApp.gif" width="104" height="142">
 </h1>
 </div>
