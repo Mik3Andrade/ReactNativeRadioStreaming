@@ -3,5 +3,5 @@
 </h1>
 
 <h1 align="center">
-    <img src="demonstrationApp.gif" width="100">
+    <img src="demonstrationApp.gif" width="180">
 </h1>
