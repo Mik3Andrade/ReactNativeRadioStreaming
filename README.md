@@ -27,8 +27,8 @@ Features
 Instalation App
 </h1>
 
-<h3>
-1- { git clone "https://github.com/Mik3Andrade/ReactNativeRadioStreaming.git" }
+<h3 style="background-color:#ddd">
+ git clone https://github.com/Mik3Andrade/ReactNativeRadioStreaming.git
 </h3>
 
 <h2>Credits</h2>
