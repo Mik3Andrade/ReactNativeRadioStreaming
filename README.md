@@ -2,13 +2,13 @@
     <p>React Native Radio Streaming</p>
 </h1>
 
-<h3>
+<h4>
 This project was made based on these repositories:
-
+<br>
 android: <a href="https://www.w3schools.com">react-native-kit/react-native-track-player</a> <br>
 ios: <a href="https://github.com/tlenclos/react-native-audio-streaming">react-native-audio-streaming</a>
 
-</h3>
+</h4>
 
 <h1>
 Features
