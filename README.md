@@ -2,6 +2,14 @@
     <p>React Native Radio Streaming</p>
 </h1>
 
+<h3>
+This project was made based on these repositories:
+
+android: <a href="https://www.w3schools.com">react-native-kit/react-native-track-player</a> <br>
+ios: <a href="https://github.com/tlenclos/react-native-audio-streaming">react-native-audio-streaming</a>
+
+</h3>
+
 <h1>
 Features
 </h1>
@@ -18,7 +26,7 @@ Features
 
 </h5>
 
-<h1 align="center" style="margin-left:200px">
-    <img src="demonstrationApp.gif" width="180" >
-    <img src="demonstrationApp.gif" width="180" >
+<h1 align="center">
+    <img src="demonstrationApp.gif" width="180" marginLeft="20px">
+    <img src="demonstrationApp.gif" width="180">
 </h1>
