@@ -6,7 +6,7 @@
 Features
 </h1>
 
-<h3>
+<h5>
 
 - Background audio streaming of remote stream
 
@@ -16,7 +16,7 @@ Features
 
 - Simple UI player component (if needed, an api to control the sound is available)
 
-</h3>
+</h5>
 
 <h1 align="center">
     <img src="demonstrationApp.gif" width="180">
