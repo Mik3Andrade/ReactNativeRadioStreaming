@@ -4,6 +4,8 @@ import PlayerRadio from '../Player';
 
 // import { Container } from './styles';
 
+console.disableYellowBox = true;
+
 function Home() {
   return (
     <View style={styles.ContainerView}>
